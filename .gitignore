@@ -1,3 +1,7 @@
+# Ignores PDF and Word Files
+*.pdf
+*.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
